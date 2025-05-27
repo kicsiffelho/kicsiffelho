@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me
+
+* 🌱 I'm currently learning and diving deeper into Spring boot and functional languages and network related topics.
