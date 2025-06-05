@@ -1,19 +1,29 @@
-## Hi there 👋
+# 🕹️ Projects & Playgrounds
 
-<!--
-**kicsiffelho/kicsiffelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Tech Stack
 
-Here are some ideas to get you started:
+- 🔧 **Languages:** C#, Java, Node.js, PHP — depending on the mission
+- 🧱 **Frameworks:** WPF, Spring Boot, Angular, Laravel — from backend battles to desktop apps
+- 🗄️ **Databases:** MySQL and MongoDB — structured or flexible, whatever fits the job
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### About Me
+---
 
-* 🌱 I'm currently learning and diving deeper into Spring boot and functional languages and network related topics.
+### 🎯 What I'm Currently Digging Into
+
+- 🕵️‍♂️ **CTFs** – Playing around with security challenges and learning through breakage
+- ☕ **Spring Boot** – Crafting cleaner, more scalable backend systems
+- ⚙️ **Microservices** – Breaking things apart on purpose (and then wiring them back together)
+
+---
+
+### 🎮 Things I've Built
+
+- 🐾 [**Animal Shelter Management**](https://github.com/kicsiffelho/animalsheltermgmt) – A C# desktop app to keep track of animals, built with MVVM.
+- 🎧 [**Spotify WPF**](https://github.com/kicsiffelho/spotifywpf) – A little desktop music client, just for fun.
+- 🍰 [**Cake Factory**](https://github.com/kicsiffelho/cake_factory) – Laravel-based cake ordering management.
+- 💰 [**ClickCoins**](https://github.com/kicsiffelho/clickcoins) – A coin-clicker game with a shop and backgrounds, just for the grind.
+
+---
+
+I have absolutely no desire to reinvent login systems ever again.  
+Big shoutout to Auth0, Clerk, Firebase Auth — you make that someone else’s problem. 🙏
