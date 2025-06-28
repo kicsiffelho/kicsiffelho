@@ -3,15 +3,15 @@
 ### 🧠 Tech Stack
 
 - 🔧 **Languages:** C#, Java, Node.js, PHP
-- 🧱 **Frameworks:** WPF, Spring Boot, Laravel
+- 🧱 **Frameworks:** WPF, Spring Boot, Laravel, Flask
 - 🗄️ **Databases:** MySQL and MongoDB
 
 ---
 
-### 🎯 What I'm Currently Digging Into
+### 🎯 What I'm Currently Learning
 
 - 🕵️‍♂️ **CTFs** – Playing around with security challenges and learning through breakage
-- ☕ **Spring Boot** – Crafting cleaner, more scalable backend systems
+- ☕ **Spring Boot, Flask** – Crafting cleaner, more scalable backend systems
 - ⚙️ **Microservices** – Breaking things apart on purpose (and then wiring them back together)
 
 ---
@@ -25,5 +25,5 @@
 
 ---
 
-I have absolutely no desire to reinvent login systems ever again.  
-Big shoutout to Auth0, Clerk, Firebase Auth — you make that someone else’s problem. 🙏
+<!-- I have absolutely no desire to reinvent login systems ever again.  
+Big shoutout to Auth0, Clerk, Firebase Auth — you make that someone else’s problem. 🙏 -->
