@@ -2,9 +2,9 @@
 
 ### 🧠 Tech Stack
 
-- 🔧 **Languages:** C#, Java, Node.js, PHP — depending on the mission
-- 🧱 **Frameworks:** WPF, Spring Boot, Angular, Laravel — from backend battles to desktop apps
-- 🗄️ **Databases:** MySQL and MongoDB — structured or flexible, whatever fits the job
+- 🔧 **Languages:** C#, Java, Node.js, PHP
+- 🧱 **Frameworks:** WPF, Spring Boot, Laravel
+- 🗄️ **Databases:** MySQL and MongoDB
 
 ---
 
@@ -21,7 +21,7 @@
 - 🐾 [**Animal Shelter Management**](https://github.com/kicsiffelho/animalsheltermgmt) – A C# desktop app to keep track of animals, built with MVVM.
 - 🎧 [**Spotify WPF**](https://github.com/kicsiffelho/spotifywpf) – A little desktop music client, just for fun.
 - 🍰 [**Cake Factory**](https://github.com/kicsiffelho/cake_factory) – Laravel-based cake ordering management.
-- 💰 [**ClickCoins**](https://github.com/kicsiffelho/clickcoins) – A coin-clicker game with a shop and backgrounds, just for the grind.
+- 💰 [**ClickCoins**](https://github.com/kicsiffelho/clickcoins) – A coin-clicker game with a shop and backgrounds.
 
 ---
 
