@@ -2,8 +2,8 @@
 
 ### 🧠 Tech Stack
 
-- 🔧 **Languages:** C#, Java, Node.js, PHP
-- 🧱 **Frameworks:** WPF, Spring Boot, Laravel, Flask
+- 🔧 **Languages:** C#, Python, Node.js, Java, PHP
+- 🧱 **Frameworks:** WPF, Spring Boot, Laravel
 - 🗄️ **Databases:** MySQL and MongoDB
 
 ---
