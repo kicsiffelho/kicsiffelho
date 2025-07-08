@@ -1,4 +1,4 @@
-# 🕹️ Projects & Playgrounds
+# 🕹️ Projects
 
 ### 🧠 Tech Stack
 
