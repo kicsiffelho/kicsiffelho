@@ -1,6 +1,4 @@
-# 🕹️ Projects
-
-### 🧠 Tech Stack
+## 🧠 Tech Stack
 
 - 🔧 **Languages:** C#, Python, Node.js, Java, PHP
 - 🧱 **Frameworks:** WPF, Spring Boot, Laravel
@@ -8,14 +6,14 @@
 
 ---
 
-### 🎯 What I'm Currently Learning
+## 🎯 What I'm Currently Learning
 
 - 🕵️‍♂️ **CTFs**
 - ☕ **Spring Boot, Flask**
 
 ---
 
-### 🎮 Things I've Built
+## 🎮 Things I've Built
 
 - 🐾 [**Animal Shelter Management**](https://github.com/kicsiffelho/animalsheltermgmt) – A C# desktop app to keep track of animals, built with MVVM.
 - 🎧 [**Spotify WPF**](https://github.com/kicsiffelho/spotifywpf) – A little desktop music client.
